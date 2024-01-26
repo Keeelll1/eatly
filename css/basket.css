@@ -3,7 +3,7 @@
 .basket-map{
     width: 100%;
     height: 733px;
-    background: url('/images/map.png');
+    background: url('../images/map.png');
     position: relative;
     margin-bottom: 320px;
 }
